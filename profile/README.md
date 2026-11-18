@@ -1,5 +1,5 @@
 
-# Luma3DS — Nintendo 3DS Custom Firmware
+# Luma2DS — Nintendo 2DS Custom Firmware
 
 <p align="center">
   <strong>Custom firmware, homebrew support, system patches, and advanced tools for the Nintendo 3DS family</strong>
